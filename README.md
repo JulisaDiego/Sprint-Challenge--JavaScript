@@ -30,13 +30,22 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
+forEach is a little harder on memory and also changes or transforms an array. 
+Whereas map creates a new array and doesnt mess with the original.
+
 2. What is the difference between a function and a method?
+
+a method is associated with an object usually and a function is its own object.
 
 3. What is closure?
 
+I think its kinda like the question in "functions.js", where it has to pretty much do with scope
+
 4. Describe the four rules of the 'this' keyword.
 
+
 5. Why do we need super() in an extended class?
+ Super is referencing to the extended class
 
 ## Project Set up
 
